@@ -1,2 +1,2 @@
 # Spark-projects
-Assignments from Spark course
+Assignments from Scala / Spark course
