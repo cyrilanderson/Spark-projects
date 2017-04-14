@@ -1,4 +1,4 @@
-In this assignment, analyzed a dataset from Kaggle :
+In this assignment, analyzed a dataset from Kaggle.
 
 The data, from the US Bureau of Labor Statistics, is documented here:
 https://www.kaggle.com/bls/american-time-use-survey
