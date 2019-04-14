@@ -1,4 +1,4 @@
-In this assignment, focussed on the PairRDD data structure using the Spark Scala API.
+In this assignment, focused on the PairRDD data structure using the Spark Scala API.
 
 In this assignment, we used a dataset consisting of questions and answers from Stackoverflow relating to several different programming languages (CSS, Groovy, C#, Ruby, PHP, Objective-C, Java, MATLAB, Javascript, C++, Perl, Python, Clojure, Scala, Haskell)
 
